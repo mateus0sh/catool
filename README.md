@@ -6,6 +6,13 @@
 Este projeto foi desenvolvido em **C++** e tem como objetivo fornecer utilitarios a tecnicos e usuarios da internet em geral, catool foi feito com proposito de minimizar o trabalho extenso de instalação de arquivos obrigatorios em windows recem instalados e visse versa..</br></br>
 Futuramente o programa terá versões com direito a interface gráfica, mais opções em todas as categorias e compatibilidade absoluta em versões anteriores do Windows.</br></br>
 
+## 📦 Estrutura
+  - 📄 [main.cpp](https://github.com/tommyst0/catool/blob/main/main.cpp)
+    - 📂 scripts
+      - 📄 [Funções Gerais](https://github.com/tommyst0/catool/blob/main/scripts/functions.h)
+      - 📄 [Visual](https://github.com/tommyst0/catool/blob/main/scripts/visual.h)
+      - 📄 [Funções envolvendo o Windows](https://github.com/tommyst0/catool/blob/main/scripts/windows.h)
+
 ## 🖼️ Demonstração
 <p align="center">
   <img src="https://github.com/tommyst0/catool/blob/main/exemplo1.png" alt="ex2" width="500"/>
