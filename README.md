@@ -28,6 +28,7 @@ Futuramente o programa terá versões com direito a interface gráfica, mais op�
     <td align="center"><a href="https://github.com/Zusier" title="tommy"><img src="https://avatars.githubusercontent.com/u/46111482" width="100px;" alt="foto"/><br><sub><b>Zusier</b></sub></a></td>
   </tr>
 </table>
+
 Contribuições são bem-vindas!</br>
 Abra issues para sugestões ou bugs</br>
 Faça pull requests para melhorias</br>
