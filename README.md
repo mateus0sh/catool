@@ -22,10 +22,10 @@ Futuramente o programa terá versões com direito a interface gráfica, mais op�
 ## 🤝 Contribuições
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/mateus0sh" title="tommy"><img src="https://avatars3.githubusercontent.com/u/203030990" width="100px;" alt="foto"/><br><sub><b>Mateus Mesquita</b></sub></a></td>
-    <td align="center"><a href="https://github.com/SeregaSPb" title="tommy"><img src="https://avatars.githubusercontent.com/u/9507865" width="100px;" alt="foto"/><br><sub><b>SeregaSPb</b></sub></a></td>
-    <td align="center"><a href="https://github.com/AnErrupTion" title="tommy"><img src="https://avatars.githubusercontent.com/u/49339966" width="100px;" alt="foto"/><br><sub><b>AnErrupTion</b></sub></a></td>
-    <td align="center"><a href="https://github.com/Zusier" title="tommy"><img src="https://avatars.githubusercontent.com/u/46111482" width="100px;" alt="foto"/><br><sub><b>Zusier</b></sub></a></td>
+    <td align="center"><a href="https://github.com/mateus0sh" title="tommy"><img src="https://avatars3.githubusercontent.com/u/203030990" width="100px;" alt="foto"/><br><sub><b>Mateus Mesquita</b></sub></a></br>Dev</td>
+    <td align="center"><a href="https://github.com/SeregaSPb" title="tommy"><img src="https://avatars.githubusercontent.com/u/9507865" width="100px;" alt="foto"/><br><sub><b>SeregaSPb</b></sub></a></br>Cod. BATCH</td>
+    <td align="center"><a href="https://github.com/AnErrupTion" title="tommy"><img src="https://avatars.githubusercontent.com/u/49339966" width="100px;" alt="foto"/><br><sub><b>AnErrupTion</b></sub></a></br>Cod. BATCH</td>
+    <td align="center"><a href="https://github.com/Zusier" title="tommy"><img src="https://avatars.githubusercontent.com/u/46111482" width="100px;" alt="foto"/><br><sub><b>Zusier</b></sub></a></br>Cod. BATCH</td>
   </tr>
 </table>
 
